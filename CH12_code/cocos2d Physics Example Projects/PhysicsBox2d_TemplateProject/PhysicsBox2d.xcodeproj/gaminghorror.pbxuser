@@ -1,0 +1,271 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PhysicsBox2d */ = {
+		activeExec = 0;
+		executables = (
+			DC69BC8F12424A71002E55A5 /* PhysicsBox2d */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* PhysicsBox2dAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 1274}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1570}";
+		};
+	};
+	1F3B9A2C0EF2145700286867 /* PhysicsBox2dAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 706}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 335}";
+		};
+	};
+	1F3B9A820EF2151B00286867 /* PhysicsBox2d_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 725}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 187}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DC69BC8F12424A71002E55A5 /* PhysicsBox2d */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PhysicsBox2d */;
+		codeSenseManager = DC69BCA212424A7D002E55A5 /* Code sense */;
+		executables = (
+			DC69BC8F12424A71002E55A5 /* PhysicsBox2d */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					558,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					518,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306423078;
+			PBXWorkspaceStateSaveDate = 306423078;
+		};
+		perUserProjectItems = {
+			DC08FFDA1243B16100548920 /* PBXTextBookmark */ = DC08FFDA1243B16100548920 /* PBXTextBookmark */;
+			DC69BCC312424F1C002E55A5 /* PBXBookmark */ = DC69BCC312424F1C002E55A5 /* PBXBookmark */;
+			DC69BCC412424F1C002E55A5 /* PBXBookmark */ = DC69BCC412424F1C002E55A5 /* PBXBookmark */;
+			DC69BCC512424F1C002E55A5 /* PBXBookmark */ = DC69BCC512424F1C002E55A5 /* PBXBookmark */;
+			DC69BCC612424F1C002E55A5 /* PBXTextBookmark */ = DC69BCC612424F1C002E55A5 /* PBXTextBookmark */;
+			DC69BCC912424F1C002E55A5 /* PBXTextBookmark */ = DC69BCC912424F1C002E55A5 /* PBXTextBookmark */;
+			DC69BE0A12426DB8002E55A5 /* PBXTextBookmark */ = DC69BE0A12426DB8002E55A5 /* PBXTextBookmark */;
+			DC69BE0B12426DB8002E55A5 /* PBXTextBookmark */ = DC69BE0B12426DB8002E55A5 /* PBXTextBookmark */;
+			DC69BE0D12426DB8002E55A5 /* PBXTextBookmark */ = DC69BE0D12426DB8002E55A5 /* PBXTextBookmark */;
+			DC69BE1112426E06002E55A5 /* PBXTextBookmark */ = DC69BE1112426E06002E55A5 /* PBXTextBookmark */;
+			DCE500D91242CD6F005ABC6F /* PBXTextBookmark */ = DCE500D91242CD6F005ABC6F /* PBXTextBookmark */;
+		};
+		sourceControlManager = DC69BCA112424A7D002E55A5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EDC2F102F528A00A389B3 /* HelloWorldScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 725}}";
+			sepNavSelRange = "{257, 0}";
+			sepNavVisRange = "{0, 558}";
+		};
+	};
+	506EDC30102F528A00A389B3 /* HelloWorldScene.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {798, 3738}}";
+			sepNavSelRange = "{1930, 0}";
+			sepNavVisRange = "{1142, 1737}";
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	50F4143710692D7D002A0D5E /* GLES-Render.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 952}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{860, 1291}";
+		};
+	};
+	50F4143810692D7D002A0D5E /* GLES-Render.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 2534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1278, 1410}";
+		};
+	};
+	DC08FFDA1243B16100548920 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* HelloWorldScene.mm */;
+		name = "HelloWorldScene.mm: 81";
+		rLen = 0;
+		rLoc = 1930;
+		rType = 0;
+		vrLen = 1737;
+		vrLoc = 1142;
+	};
+	DC69BC8F12424A71002E55A5 /* PhysicsBox2d */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PhysicsBox2d;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DC69BCA112424A7D002E55A5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DC69BCA212424A7D002E55A5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DC69BCC312424F1C002E55A5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 50F4144410692EE7002A0D5E /* Default.png */;
+	};
+	DC69BCC412424F1C002E55A5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 50F4144510692EE7002A0D5E /* fps_images.png */;
+	};
+	DC69BCC512424F1C002E55A5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 50F4144310692EE7002A0D5E /* blocks.png */;
+	};
+	DC69BCC612424F1C002E55A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2C0EF2145700286867 /* PhysicsBox2dAppDelegate.h */;
+		name = "PhysicsBox2dAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 335;
+		vrLoc = 0;
+	};
+	DC69BCC912424F1C002E55A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50F4143710692D7D002A0D5E /* GLES-Render.h */;
+		name = "GLES-Render.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1291;
+		vrLoc = 860;
+	};
+	DC69BE0A12426DB8002E55A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2B0EF2145700286867 /* PhysicsBox2dAppDelegate.mm */;
+		name = "PhysicsBox2dAppDelegate.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1570;
+		vrLoc = 0;
+	};
+	DC69BE0B12426DB8002E55A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A820EF2151B00286867 /* PhysicsBox2d_Prefix.pch */;
+		name = "PhysicsBox2d_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	DC69BE0D12426DB8002E55A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC2F102F528A00A389B3 /* HelloWorldScene.h */;
+		name = "HelloWorldScene.h: 12";
+		rLen = 0;
+		rLoc = 257;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 0;
+	};
+	DC69BE1112426E06002E55A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50F4143810692D7D002A0D5E /* GLES-Render.mm */;
+		name = "GLES-Render.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1410;
+		vrLoc = 1278;
+	};
+	DCE500D91242CD6F005ABC6F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* HelloWorldScene.mm */;
+		name = "HelloWorldScene.mm: 81";
+		rLen = 0;
+		rLoc = 1930;
+		rType = 0;
+		vrLen = 1740;
+		vrLoc = 1139;
+	};
+}

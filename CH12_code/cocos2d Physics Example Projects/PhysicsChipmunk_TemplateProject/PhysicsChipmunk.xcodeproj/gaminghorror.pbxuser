@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PhysicsChipmunk */ = {
+		activeExec = 0;
+		executables = (
+			DC69BCDC12424F38002E55A5 /* PhysicsChipmunk */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DC69BCDC12424F38002E55A5 /* PhysicsChipmunk */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PhysicsChipmunk */;
+		codeSenseManager = DC69BCEC12424F5D002E55A5 /* Code sense */;
+		executables = (
+			DC69BCDC12424F38002E55A5 /* PhysicsChipmunk */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					621,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306582259;
+			PBXWorkspaceStateSaveDate = 306582259;
+		};
+		perUserProjectItems = {
+			DC69BCED12424F92002E55A5 /* PBXTextBookmark */ = DC69BCED12424F92002E55A5 /* PBXTextBookmark */;
+			DCF30B8C12460FC400D9513C /* PBXTextBookmark */ = DCF30B8C12460FC400D9513C /* PBXTextBookmark */;
+			DCF30C151246131400D9513C /* PBXTextBookmark */ = DCF30C151246131400D9513C /* PBXTextBookmark */;
+		};
+		sourceControlManager = DC69BCEB12424F5D002E55A5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	507022A2107672FA00393637 /* PhysicsChipmunkAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 1218}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{774, 1479}";
+		};
+	};
+	507022A3107672FA00393637 /* HelloWorldScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 2674}}";
+			sepNavSelRange = "{4428, 0}";
+			sepNavVisRange = "{3383, 1127}";
+		};
+	};
+	DC69BCDC12424F38002E55A5 /* PhysicsChipmunk */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PhysicsChipmunk;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DC69BCEB12424F5D002E55A5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DC69BCEC12424F5D002E55A5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DC69BCED12424F92002E55A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 507022A2107672FA00393637 /* PhysicsChipmunkAppDelegate.m */;
+		name = "PhysicsChipmunkAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1479;
+		vrLoc = 774;
+	};
+	DCF30B8C12460FC400D9513C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 507022A3107672FA00393637 /* HelloWorldScene.m */;
+		name = "HelloWorldScene.m: 14";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 1097;
+		vrLoc = 0;
+	};
+	DCF30C151246131400D9513C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 507022A3107672FA00393637 /* HelloWorldScene.m */;
+		name = "HelloWorldScene.m: 184";
+		rLen = 0;
+		rLoc = 4428;
+		rType = 0;
+		vrLen = 1127;
+		vrLoc = 3383;
+	};
+}
